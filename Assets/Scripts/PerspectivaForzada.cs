@@ -93,7 +93,7 @@ public class PerspectivaForzada : MonoBehaviour
                 Vector3 posicionCursorEnMundo = cam.ScreenToWorldPoint(new Vector3(mousePos.x, mousePos.y, distanciaInicialZ));
                 offsetInicial = objetoSostenido.transform.position - posicionCursorEnMundo;
 
-                // --- MAGIA DE CURSOR ---
+                // CURSOR
                 posicionVirtualPantalla = mousePos;
                 Cursor.visible = false; 
             }
