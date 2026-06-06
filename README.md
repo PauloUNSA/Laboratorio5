@@ -9,3 +9,8 @@ Puedes acceder al documento detallado del informe aquí:
 Puedes ver el resultado de la práctica haciendo clic en el siguiente enlace:
 
 [▶️ Ver video de Laboratorio 5](Laboratorio5.mp4)
+
+## Descarga del Proyecto
+Puedes descargar el ejecutable compilado directamente desde este enlace:
+
+[⬇️ Descargar Compilado.zip](https://github.com/PauloUNSA/Laboratorio5/releases/download/Versiones/Compilado.zip)
